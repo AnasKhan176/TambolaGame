@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Family Tambola</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="done"> Done!!! </string>
+
+    <string name="org">Organizer</string>
+    <string name="pat">Participator</string>
+
+    <string name="invitation_title"> Family Tambola </string>
+    <string name="invitation_message"> A simple tambola game</string>
+    <string name="invitation_cta"> INSTALL </string>
+
+
+
+    <string-array name="abc">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <!-- Message to display while video is buffering. -->
+    <string name="buffering_string">Buffering&#8230;</string>
+
+    <!-- Message to display when video is finished playing. -->
+    <string name="toast_message">Playback completed.</string>
+
+</resources>
